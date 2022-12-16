@@ -1,9 +1,9 @@
 {
-  "latestVersion": "8.3.4",
-  "latestVersionCode": "109",
-  "url": "",
+  "latestVersion": "1.2.2",
+  "latestVersionCode": "10",
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
   "releaseNotes": [
-    "- UI integration",
+    "- First evolution",
     "- Second evolution",
     "- Bug fixes"
   ]
